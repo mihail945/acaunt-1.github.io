@@ -1,0 +1,16 @@
+body {
+	background-image: url("maxresdefault1.jpg");
+	white-space:pre-line;
+	font-size:18;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+h1.acaunt_1 {
+	color:red;
+	font-size:50;
+	text-align:left;
+}
+p.opisanie {
+	color:green;
+	font-size:20;
+}
